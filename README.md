@@ -1,7 +1,7 @@
 ## Olá, Eu sou Gabryel januario
 
 - 🔭 Hoje estudo engenharia de software
-- 🌱 Estudando Java
+- 🌱 Estudando Python
 - 🤔 Pronouns: ele/dele
 
   ##
