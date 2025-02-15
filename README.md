@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Gabryel Januario
+# 🧑🏾‍💻 Gabryel Januario
 
 **`Desenvolvedor`**
 
